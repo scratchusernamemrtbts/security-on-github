@@ -13,7 +13,7 @@
     "eslint": "^6.2.2"
   },
   "engines": {
-    "npm": "2.15.0"
+    "npm": "2.15.12"
   },
   "license": "MIT"
 }
